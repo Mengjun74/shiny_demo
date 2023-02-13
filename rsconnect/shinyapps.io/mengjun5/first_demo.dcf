@@ -1,0 +1,13 @@
+name: first_demo
+title: first_demo
+username:
+account: mengjun5
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8302009
+bundleId: 6842065
+url: https://mengjun5.shinyapps.io/first_demo/
+when: 1676317569.92652
+lastSyncTime: 1676317569.92653
+asMultiple: FALSE
+asStatic: FALSE
